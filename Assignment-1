@@ -1,0 +1,9 @@
+#problem-2
+
+create a directory without name from command line:-
+
+touch " "
+
+  create a directory with name "-okgoogle":-
+  
+  mkdir -- "-okgoogle"
